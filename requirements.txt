@@ -1,0 +1,5 @@
+beautifulsoup
+httplib2
+feedparser
+
+-e git://github.com/defunkt/pinder.git#egg=pinder
