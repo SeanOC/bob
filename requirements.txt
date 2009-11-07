@@ -1,5 +1,6 @@
 beautifulsoup
 httplib2
 feedparser
+python-daemon
 
 -e git://github.com/defunkt/pinder.git#egg=pinder
